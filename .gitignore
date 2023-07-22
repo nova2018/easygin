@@ -13,3 +13,18 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+.idea
+logs/
+vendor/
+*.exe
+.agollo
+test/lqh_test.go
+.env
+.DS_Store
+tmp
+go_build_*
+server
+pre.toml
+*local*
+gen
+main
